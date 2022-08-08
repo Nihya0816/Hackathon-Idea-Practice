@@ -55,4 +55,17 @@ a {
 
 body{
   font-family: 'Nanum Myeongjo', serif;
+
 }
+
+.line {
+  height: 3px;
+  width: 1220px;
+  background: black;
+  }
+
+  .line2{
+    height:3px;
+    width:1220px;
+    background:black;
+  }
