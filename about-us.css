@@ -1,0 +1,23 @@
+.top-section{
+    text-align:center;
+}
+
+.paragraph-section{
+    text-align: center;
+    font-size: x-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+body{
+    background-image: url(https://www.pngmagic.com/product_images/light-orange-solid-color-background.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+
+.img-section{
+    text-align: right;
+}
+
+.header-section{
+    text-align: center;
+}
