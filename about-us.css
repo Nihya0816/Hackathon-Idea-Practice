@@ -8,16 +8,11 @@
 .paragraph-section{
     text-align: center;
     font-size: x-large;
-   background-color:tomato;
+  
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
-body{
-    background-image: url(food-background.jpg);
-background-repeat: no-repeat;
-background-size: 100%;
 
-}
 
 .img-section{
     text-align: right;
