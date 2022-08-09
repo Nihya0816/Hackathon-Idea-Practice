@@ -1,12 +1,35 @@
 .top-section{
+
     text-align: center;
+
+    text-align:center;
+}
+
+.paragraph-section{
+    text-align: center;
+    font-size: x-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+body{
+    background-image: url(background-img.JPG);
+background-repeat: no-repeat;
+background-size: 100%;
+
 }
 
 .img-section{
     text-align: right;
 }
 
+
 .paragraph-section{
 text-align: left;
+}
+
+
+.header-section{ background-color:white;
+   
+    text-align: center;
 }
 
